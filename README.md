@@ -1,6 +1,6 @@
 # Neuromorphic-Network-Study
 Record my study on neuromorphic network.
-Most materials are from otherpeople, not me.
+Most materials are from other people, not me.
 
 ## Video
 Cosyne 2022 Tutorial on Spiking Neural Networks - Part 1/2
